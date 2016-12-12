@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303FFF</color>
+    <color name="colorSeafoam">#0CDF99</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOrange">#FF8C00</color>
+    <color name="colorGrey">#DCDCDC</color>
+    <color name="colorBlue">#FF33B5E5</color>
+    <color name="colorRed">#FFCC0000</color>
+    <color name="colorGreen">#FF0FFF</color>
+    <color name="colorYellow">#FCDF22</color>
+    <color name="colorDarkGrey">#AAAAAA</color>
+</resources>
